@@ -1,5 +1,7 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Created by 21343033_Nicholas Ryan Jonathan
+1. File ArraySample.java merupakan latihan 1 untuk pengaksesan elemen array
+2. File ArraySample2.java merupakan latihan 2 untuk panjang array
+3. File ArraySample3.java merupakan latihan 3 untuk array multidimensi
+4. File Tugas1JS8.java merupakan tugas 1 untuk membuat array hari dalam seminggu dan menampilkan semua nilai dari array
+5. File Tugas2JS8.java merupakan tugas 2 untuk membuat array 10 nomor, mengisinya dengan JOptionPane, dan menampilkan angka terbesar dari semua nilai yang dimasukkan
+6. File Tugas3JS8.java merupakan tugas 3 untuk membuat array buku alamat yang berisi data sebuah buku alamat, lalu menampilkan semua isi array. 
